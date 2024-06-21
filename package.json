@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "k6 cloud src/humanika-workflow-engine/login.js"
+    "start": "k6 cloud src/humanika-company-profile/dashboard-smoke-test.js"
   },
   "keywords": [],
   "author": "",
